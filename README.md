@@ -1,7 +1,7 @@
 ### Hi I'm Kay 👋
 
 A Student of College of Computing at Illinois Institute of Technology <br>
-I am studying the Data Analytics, Test Automation and Full Stack Web Development.
+I am studying the Data Analytics, Full Stack Web Development and Test Automation.
 
 <p>
 
