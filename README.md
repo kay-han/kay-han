@@ -1,6 +1,6 @@
 ### Hi, I'm Kay 👋
 
-A Student of the Professional Certificate Program in the College of Computing Department at Illinois Institute of Technology (IIT).<br>
+A Student of the Professional Certificate Program in the College of Computing of Illinois Institute of Technology (IIT). <br>
 I am studying the Data Analytics, Full Stack Web Development and Test Automation.
 
 <p>
