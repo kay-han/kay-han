@@ -1,6 +1,6 @@
 ### Hi, I'm Kay 👋
 
-Pursuing the Data Management and Analytics Professional Certificate Program in the College of Computing of Illinois Institute of Technology (IIT). <br>
+Pursuing the Data Management and Analytics Professional Certificate Program in the College of Computing of Illinois Tech. <br>
 I'm also interested in Full Stack Web Development and Test Automation.
 
 <p>
