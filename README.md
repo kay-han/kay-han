@@ -20,7 +20,7 @@ I'm also interested in Full Stack Web Development and Test Automation.
   
 <a href="https://github.com/kay-han">
   <img align="center"
-       src="https://github-readme-stats.vercel.app/api?username=kay-han&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" >
+       src="https://github-readme-stats.vercel.app/api?username=kay-han&langs_count=8&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=nord" >
 </a>
  
 <!--
